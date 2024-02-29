@@ -1,0 +1,36 @@
+# Copyright (C) 2021-2023 TeamUltroid.
+# Ultroid - UserBot.
+# UltroidUser - XexenId.
+#
+# This file is a part of https://github.com/teamultroid/ultroid.
+# Please read the GNU affero general license.
+# https://www.github.com/teamultroid/ultroid/blob/main/license.
+
+
+aiofiles
+aiohttp
+asyncio
+beautifulsoup4
+dnspython
+ffmpeg-python
+gitpython
+hachoir
+heroku3
+motor
+pillow
+psutil
+py-tgcalls==0.9.7
+pykeyboard
+pyrogram==2.0.106
+python-dotenv
+pyyaml
+requests
+speedtest-cli
+spotipy
+tgcrypto
+unidecode
+yt-dlp
+youtube-search
+youtube-search-python
+node
+nodejs
